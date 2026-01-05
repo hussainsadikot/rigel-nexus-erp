@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Rigel Nexus ERP",
-  description: "Inventory & Traceability System for Business",
+  title: "Rigel Nexus ERP | Smart Inventory System",
+  description: "A comprehensive Full-Stack ERP solution designed for modern inventory management. Features include Real-time Stock Tracking, Purchase Order (PO) Management, Inventory Valuation, and Seamless Traceability for hardware and manufacturing businesses. Built with Next.js, TypeScript, and Tailwind CSS.",
   icons: {
     // FIX: Ahiya aapne banavelu svg link karyu
     icon: "/logo.svg",
